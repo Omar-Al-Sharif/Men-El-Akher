@@ -1,4 +1,4 @@
-# Men-El-Akher
+# Men-El-Akher - A Modern Abstractive Arabic Text Summarizer 
 
 # AI Competition - AIC-1
 
