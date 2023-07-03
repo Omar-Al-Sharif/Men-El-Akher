@@ -64,13 +64,13 @@ To reproduce our results or contribute to this project, please follow the instru
 4. Run the training script:
 
    ```
-   python train.py
+   python train.ipynb
    ```
 
 5. Evaluate the trained model:
 
    ```
-   python evaluate.py
+   python evaluate.ipynb
    ```
 
 ## Contribution
