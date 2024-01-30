@@ -6,10 +6,7 @@ This repository contains the code and resources for our outstanding model [**م�
 https://github.com/Omar-Al-Sharif/Men-El-Akher/assets/68480294/ebb3c45d-cfb2-4cea-8408-24a800df0579
 
 ## Team: Al Qalam ✏️
-
-Our team, "Al Qalam," is named after the 4th ayah revealed in the Quran:
-
-"الَّذِي عَلَّمَ بِالْقَلَمِ"
+> Our team, "Al Qalam," is named after the 4th ayah revealed in the Quran: "الَّذِي عَلَّمَ بِالْقَلَمِ" 
 
 Team Members:
 - [Omar Al Sharif](https://github.com/Omar-Al-Sharif)
