@@ -1,9 +1,9 @@
 # **من الآخر.ai** 🧠
 # A Transformer-Based Abstractive Arabic Text Summarizer 
 
-
-
 This repository contains the code and resources for our outstanding model [**من الآخر.ai**](https://www.linkedin.com/posts/omar-al-sharif_%D9%8A%D8%B4%D8%B1%D9%81%D9%86%D8%A7-%D9%86%D8%B4%D8%A7%D8%B1%D9%83-%D8%A3%D8%AD%D8%AF-%D8%A3%D8%B6%D8%AE%D9%85-%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-activity-7085613020566949888-JNS0/?utm_source=share&utm_medium=member_desktop), as a part of our participation in the AIC-1 AI competition, organized by The Military Technical College and The Applied Innovation Center (AIC) of the Ministry of Communications and Information Technology. The competition aims to develop a Modern Standard AI model that can understand and summarize Arabic text.
+
+https://github.com/Omar-Al-Sharif/Men-El-Akher/assets/68480294/82159af1-c401-4b34-9866-71c8fa856c50
 
 ## Team: Al Qalam ✏️
 
