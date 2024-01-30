@@ -31,14 +31,6 @@ Our model is evaluated based on the following metrics:
 
 We are committed to optimizing our model's performance based on these metrics to achieve the best results.
 
-## Repository Structure 💻
-
-```
-- /data: Contains the dataset of Arabic articles used for training and evaluation.
-- /models: Includes the trained AI model and any related files.
-- /code: Contains the source code for our AI model development and evaluation.
-```
-
 ## Getting Started ✅
 
 To reproduce our results or contribute to this project, please follow the instructions below:
