@@ -5,3 +5,4 @@ numpy
 arabert
 evaluate
 rouge_score
+huggingface_hub
